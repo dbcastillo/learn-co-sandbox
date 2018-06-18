@@ -7,5 +7,5 @@ if (name1 === "Susan") {
 }
 
 // Don't worry about this
-module.exports = { name, height 
+module.exports = { name1, height 
 };
